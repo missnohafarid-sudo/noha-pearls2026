@@ -1,0 +1,10 @@
+node_modules
+dist
+*.local
+.DS_Store
+private/
+.wrangler
+.claude/worktrees/
+.env
+.env.*
+.dev.vars
